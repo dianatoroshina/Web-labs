@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diana\\projects\\WEB\\web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\persona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\persona.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\wwwroot\\js\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\viewmodels\\clientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\viewmodels\\clientview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\shared\\sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\product\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\product\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\layout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\client\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\client\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\client\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\client\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\client\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\client\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\client\\feedback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\client\\feedback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\product\\catalog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\product\\catalog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\home\\sale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\home\\sale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BD8915-FCF2-4052-8DED-9D80061D5A72}|OnlineStore.Storage.MS_SQL\\Persona.MS_SQL.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestore.storage.ms_sql\\database\\sqlservercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BD8915-FCF2-4052-8DED-9D80061D5A72}|OnlineStore.Storage.MS_SQL\\Persona.MS_SQL.csproj|solutionrelative:onlinestore.storage.ms_sql\\database\\sqlservercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\shared\\navbar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\shared\\navbar.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2BD8915-FCF2-4052-8DED-9D80061D5A72}|OnlineStore.Storage.MS_SQL\\Persona.MS_SQL.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestore.storage.ms_sql\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2BD8915-FCF2-4052-8DED-9D80061D5A72}|OnlineStore.Storage.MS_SQL\\Persona.MS_SQL.csproj|solutionrelative:onlinestore.storage.ms_sql\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\home\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|c:\\users\\diana\\projects\\web\\web\\onlinestrore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7672DC44-B38C-471C-859C-CF717CC86C53}|OnlineStrore\\Persona.csproj|solutionrelative:onlinestrore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scripts.js",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\wwwroot\\js\\scripts.js",
+              "RelativeDocumentMoniker": "OnlineStrore\\wwwroot\\js\\scripts.js",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\wwwroot\\js\\scripts.js",
+              "RelativeToolTip": "OnlineStrore\\wwwroot\\js\\scripts.js",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAwKQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-15T18:26:51.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Layout.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Layout.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwHgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T17:57:29.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientView.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\ViewModels\\ClientView.cs",
+              "RelativeDocumentMoniker": "OnlineStrore\\ViewModels\\ClientView.cs",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\ViewModels\\ClientView.cs",
+              "RelativeToolTip": "OnlineStrore\\ViewModels\\ClientView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:49:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Shared\\sidebar.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Shared\\sidebar.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Shared\\sidebar.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Shared\\sidebar.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:00:17.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Catalog.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Product\\Catalog.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Product\\Catalog.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Product\\Catalog.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Product\\Catalog.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T17:50:29.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "OnlineStrore\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "OnlineStrore\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T17:59:58.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Layout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Layout.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Layout.cshtml.cs",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Layout.cshtml.cs",
+              "RelativeToolTip": "OnlineStrore\\Views\\Layout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:48:11.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.csproj",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Persona.csproj",
+              "RelativeDocumentMoniker": "OnlineStrore\\Persona.csproj",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Persona.csproj",
+              "RelativeToolTip": "OnlineStrore\\Persona.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T21:44:40.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Client\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Client\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Client\\Feedback.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Client\\Feedback.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:30:46.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Client\\Register.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Client\\Register.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Client\\Register.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Client\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwDQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:30:49.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Client\\Login.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Client\\Login.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Client\\Login.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Client\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T17:48:55.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Feedback.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Client\\Feedback.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Client\\Feedback.cshtml.cs",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Client\\Feedback.cshtml.cs",
+              "RelativeToolTip": "OnlineStrore\\Views\\Client\\Feedback.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:14:59.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Catalog.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Product\\Catalog.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Product\\Catalog.cshtml.cs",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Product\\Catalog.cshtml.cs",
+              "RelativeToolTip": "OnlineStrore\\Views\\Product\\Catalog.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:15:27.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Shared\\navbar.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Shared\\navbar.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Shared\\navbar.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Shared\\navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:04:16.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Shared\\footer.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Shared\\footer.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Shared\\footer.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Shared\\footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:16:52.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T17:50:38.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sale.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Home\\Sale.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Home\\Sale.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Home\\Sale.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Home\\Sale.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:30:19.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineStrore\\appsettings.json",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\appsettings.json",
+              "RelativeToolTip": "OnlineStrore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T21:36:44.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SqlServerContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStore.Storage.MS_SQL\\DataBase\\SqlServerContextFactory.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Storage.MS_SQL\\DataBase\\SqlServerContextFactory.cs",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStore.Storage.MS_SQL\\DataBase\\SqlServerContextFactory.cs",
+              "RelativeToolTip": "OnlineStore.Storage.MS_SQL\\DataBase\\SqlServerContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:37:28.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "navbar.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Shared\\navbar.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Shared\\navbar.cshtml.cs",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Shared\\navbar.cshtml.cs",
+              "RelativeToolTip": "OnlineStrore\\Views\\Shared\\navbar.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:58:24.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStore.Storage.MS_SQL\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineStore.Storage.MS_SQL\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStore.Storage.MS_SQL\\Entities\\Product.cs",
+              "RelativeToolTip": "OnlineStore.Storage.MS_SQL\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:49:37.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "News.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Home\\News.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Home\\News.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Home\\News.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Home\\News.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:18:04.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:16:33.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineStrore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diana\\projects\\WEB\\web\\OnlineStrore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OnlineStrore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T18:07:04.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

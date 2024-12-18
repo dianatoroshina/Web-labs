@@ -1,0 +1,63 @@
+-- Категории товаров
+INSERT INTO [Barbershop].[dbo].[ProductTypes] ([Id], [Name])
+VALUES
+('A1B722B9-BEBC-45A8-8678-43F198B2FD49', 'Средства для укладки'),
+('B2FA2A48-3EA1-41F4-833F-472B5FB5FE39', 'Инструменты'),
+('C3F5F154-7F24-4B91-893D-78E758B20C22', 'Уход за волосами'),
+('D4E32ED7-3E70-418D-B369-7997A6E90C68', 'Уход за бородой');
+
+-- Товары
+INSERT INTO [Barbershop].[dbo].[Products]
+([Id], [Name], [Price], [Description], [ImagePath], [Stock], [ProductTypeId])
+VALUES  
+-- Средства для укладки
+('11111111-AAAA-1111-1111-111111111111', 'Гель для укладки', 499.99, 'Сильная фиксация для стильной укладки', 'https://example.com/gel.jpg', 20, 'A1B722B9-BEBC-45A8-8678-43F198B2FD49'),
+('22222222-BBBB-2222-2222-222222222222', 'Мусс для объема', 699.99, 'Придает волосам пышность и объем', 'https://example.com/mousse.jpg', 15, 'A1B722B9-BEBC-45A8-8678-43F198B2FD49'),
+('33333333-CCCC-3333-3333-333333333333', 'Лак для волос', 399.99, 'Надежная фиксация в течение дня', 'https://example.com/hairspray.jpg', 30, 'A1B722B9-BEBC-45A8-8678-43F198B2FD49'),
+('44444444-DDDD-4444-4444-444444444444', 'Крем для укладки', 599.99, 'Придает волосам блеск и текстуру', 'https://example.com/cream.jpg', 10, 'A1B722B9-BEBC-45A8-8678-43F198B2FD49'),
+
+-- Инструменты
+('55555555-EEEE-5555-5555-555555555555', 'Ножницы парикмахерские', 2499.99, 'Профессиональные ножницы для стрижки', 'https://example.com/scissors.jpg', 5, 'B2FA2A48-3EA1-41F4-833F-472B5FB5FE39'),
+('66666666-FFFF-6666-6666-666666666666', 'Машинка для стрижки', 3999.99, 'Электрическая машинка для стрижки волос', 'https://example.com/clippers.jpg', 8, 'B2FA2A48-3EA1-41F4-833F-472B5FB5FE39'),
+('77777777-GGGG-7777-7777-777777777777', 'Фен профессиональный', 3299.99, 'Фен с ионизацией для быстрой сушки', 'https://example.com/hairdryer.jpg', 7, 'B2FA2A48-3EA1-41F4-833F-472B5FB5FE39'),
+('88888888-HHHH-8888-8888-888888888888', 'Расческа карбоновая', 799.99, 'Антистатическая расческа для укладки', 'https://example.com/comb.jpg', 25, 'B2FA2A48-3EA1-41F4-833F-472B5FB5FE39'),
+
+-- Уход за волосами
+('99999999-IIII-9999-9999-999999999999', 'Шампунь увлажняющий', 499.99, 'Подходит для ежедневного использования', 'https://example.com/shampoo.jpg', 40, 'C3F5F154-7F24-4B91-893D-78E758B20C22'),
+('AAAAAAAA-JJJJ-AAAA-AAAA-AAAAAAAAAAAA', 'Кондиционер восстанавливающий', 599.99, 'Придает волосам мягкость и блеск', 'https://example.com/conditioner.jpg', 30, 'C3F5F154-7F24-4B91-893D-78E758B20C22'),
+('BBBBBBBB-KKKK-BBBB-BBBB-BBBBBBBBBBBB', 'Маска для волос', 799.99, 'Интенсивное питание и восстановление', 'https://example.com/hairmask.jpg', 15, 'C3F5F154-7F24-4B91-893D-78E758B20C22'),
+('CCCCCCCC-LLLL-CCCC-CCCC-CCCCCCCCCCC', 'Сыворотка для кончиков', 899.99, 'Защита и увлажнение поврежденных концов', 'https://example.com/serum.jpg', 20, 'C3F5F154-7F24-4B91-893D-78E758B20C22'),
+
+-- Уход за бородой
+('DDDDDDDD-MMMM-DDDD-DDDD-DDDDDDDDDDD', 'Масло для бороды', 999.99, 'Смягчает бороду и увлажняет кожу', 'https://example.com/beardoil.jpg', 25, 'D4E32ED7-3E70-418D-B369-7997A6E90C68'),
+('EEEEEEEE-NNNN-EEEE-EEEE-EEEEEEEEEEE', 'Бальзам для бороды', 799.99, 'Укрепляет волосы бороды', 'https://example.com/beardbalm.jpg', 20, 'D4E32ED7-3E70-418D-B369-7997A6E90C68'),
+('FFFFFFFF-OOOO-FFFF-FFFF-FFFFFFFFFFF', 'Шампунь для бороды', 599.99, 'Чистит и ухаживает за бородой', 'https://example.com/beardshampoo.jpg', 30, 'D4E32ED7-3E70-418D-B369-7997A6E90C68'),
+('GGGGGGGG-PPPP-GGGG-GGGG-GGGGGGGGGG', 'Щетка для бороды', 499.99, 'Помогает укладывать и чистить бороду', 'https://example.com/beardbrush.jpg', 15, 'D4E32ED7-3E70-418D-B369-7997A6E90C68');
+
+-- Маршруты товаров
+INSERT INTO [Barbershop].[dbo].[Routes]
+([Id], [Name], [Type], [RouteEntityId])
+VALUES  
+-- Средства для укладки
+('11111111-AAAA-1111-1111-111111111111', 'Гель для укладки', 'Product', '11111111-AAAA-1111-1111-111111111111'),
+('22222222-BBBB-2222-2222-222222222222', 'Мусс для объема', 'Product', '22222222-BBBB-2222-2222-222222222222'),
+('33333333-CCCC-3333-333333333333', 'Лак для волос', 'Product', '33333333-CCCC-3333-333333333333'),
+('44444444-DDDD-4444-4444-444444444444', 'Крем для укладки', 'Product', '44444444-DDDD-4444-4444-444444444444'),
+
+-- Инструменты
+('55555555-EEEE-5555-5555-555555555555', 'Ножницы парикмахерские', 'Product', '55555555-EEEE-5555-5555-555555555555'),
+('66666666-FFFF-6666-6666-666666666666', 'Машинка для стрижки', 'Product', '66666666-FFFF-6666-6666-666666666666'),
+('77777777-GGGG-7777-777777777777', 'Фен профессиональный', 'Product', '77777777-GGGG-7777-777777777777'),
+('88888888-HHHH-8888-888888888888', 'Расческа карбоновая', 'Product', '88888888-HHHH-8888-888888888888'),
+
+-- Уход за волосами
+('99999999-IIII-9999-999999999999', 'Шампунь увлажняющий', 'Product', '99999999-IIII-9999-999999999999'),
+('AAAAAAAA-JJJJ-AAAA-AAAAAAAAAAAA', 'Кондиционер восстанавливающий', 'Product', 'AAAAAAAA-JJJJ-AAAA-AAAAAAAAAAAA'),
+('BBBBBBBB-KKKK-BBBBBBBBBBBBB', 'Маска для волос', 'Product', 'BBBBBBBB-KKKK-BBBBBBBBBBBBB'),
+('CCCCCCCC-LLLL-CCCCCCCCCCC', 'Сыворотка для кончиков', 'Product', 'CCCCCCCC-LLLL-CCCCCCCCCCC'),
+
+-- Уход за бородой
+('DDDDDDDD-MMMM-DDDDDDDDDDD', 'Масло для бороды', 'Product', 'DDDDDDDD-MMMM-DDDDDDDDDDD'),
+('EEEEEEEE-NNNN-EEEEEEEEEEE', 'Бальзам для бороды', 'Product', 'EEEEEEEE-NNNN-EEEEEEEEEEE'),
+('FFFFFFFF-OOOO-FFFFFFFFFFF', 'Шампунь для бороды', 'Product', 'FFFFFFFF-OOOO-FFFFFFFFFFF'),
+('GGGGGGGG-PPPP-GGGGGGGGGG', 'Щетка для бороды', 'Product', 'GGGGGGGG-PPPP-GGGGGGGGGG');

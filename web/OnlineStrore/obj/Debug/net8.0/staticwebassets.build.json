@@ -1,0 +1,2288 @@
+{
+  "Version": 1,
+  "Hash": "tss9HdnOm5TtVSLsFWQd6dTRHE27Rgfm+C8zDJ8M+Yc=",
+  "Source": "OnlineStrore",
+  "BasePath": "_content/OnlineStrore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineStrore\\wwwroot",
+      "Source": "OnlineStrore",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\css\\styles.css",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qgqw0aryw7",
+      "Integrity": "BhqXa9bUipDA+J7BdpBNF0Rur7eeF11gtaP51gOw7LY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\balzam_boroda.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/balzam_boroda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dac8twt7z9",
+      "Integrity": "y8Ku6+kCY0a8gG6/ej9qzxvMQ1h5xWPHppNujH9e49Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\balzam_boroda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\cosmetology.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/cosmetology#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dnipu61ten",
+      "Integrity": "V89WAYeybsewb44aTjshPEwoMeS9RPdp5RydMhJCxcE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cosmetology.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\fen.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/fen#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ioje1lkol",
+      "Integrity": "NTtrGclkXvTVvjqQgNOLLK4u6mPbF4c5EQVGOr+Y7hM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fen.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\galery2.jpeg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/galery2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0cihuh0vs2",
+      "Integrity": "8AbAhg3HfVnI9O3DSs3sw5j48jAnt/hAg2BR0EAo1Hg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\galery2.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\kondicioner.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/kondicioner#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hn5owactpe",
+      "Integrity": "Y0XNJTo9WL/TkvNcRChLZwMyWOXD2fw+fRdN+0ZHNHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\kondicioner.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\krem_dlya_volos.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/krem_dlya_volos#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "07eywrkh2w",
+      "Integrity": "XGidrOwiVZV4pcpZ7Xm+dUohwSYHrMdrnLQBgOxIixU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\krem_dlya_volos.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\lak_dlya_volos.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/lak_dlya_volos#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zibv8tfwg5",
+      "Integrity": "5SeabAgsWGn6HDoncOu62gs0lZoNhStbrDnRsPHmxyw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lak_dlya_volos.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\makeup.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/makeup#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9gs30mbda8",
+      "Integrity": "N0WaFGlBjH/usRK5Fhts3tqX1s5xsZ8OCoRyKDtQPHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\makeup.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\makeup2.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/makeup2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2gr0hw4d24",
+      "Integrity": "DsT/BKVb1DSWt2mDW1ayVWutqyIZRgErHHy8x/rLdBk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\makeup2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\mashinka.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/mashinka#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "segixuc8hm",
+      "Integrity": "bCPGoHwURifLrD6wKps8R9pLvMwbR8dZBV4JnilUFKo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mashinka.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\maska_dlya_volos.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/maska_dlya_volos#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afqqcqsrgl",
+      "Integrity": "RrwF2mzpdcgmfEABQDtKGEnzUhBE/EySg1XUkB++wEo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\maska_dlya_volos.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\maslo_boroda.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/maslo_boroda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wul9zb6wli",
+      "Integrity": "GLpTh3muOrbFmvYodq3EvCa1+9v/4CcDS4nwHe8La5c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\maslo_boroda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\muss_obyom.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/muss_obyom#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2sw56m3xnz",
+      "Integrity": "MoNecLpV/3U3m8xFp3CDfhDH/jXMFLTspI9Em9cOEcU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\muss_obyom.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\nozhnicy.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/nozhnicy#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4hi22tfv8f",
+      "Integrity": "CFApHo9aaiQHU/TGq8H3kMGQI4T5ojJsYl7teSI+7dA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\nozhnicy.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\photo_2024-12-13_20-57-35.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/photo_2024-12-13_20-57-35#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "og4hhw3kk3",
+      "Integrity": "KG4he9xTxrW0xMkrp+LAhDusklntgAZOiUoMjWF0FT4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\photo_2024-12-13_20-57-35.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\rashecka_karbonovaya.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/rashecka_karbonovaya#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iahcjjvomc",
+      "Integrity": "dg4HdkSaoPf50wGrBsW1gh7NkW5CcxBQQUVoH1nPntk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\rashecka_karbonovaya.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shampoo_boroda.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/shampoo_boroda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3p3g6id3ss",
+      "Integrity": "t1QvEoPsRv4qzTZgVIVXU8cbWeWyg2rk0KVCScTOiRg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shampoo_boroda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shampoo_uvl.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/shampoo_uvl#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7bax9qbawr",
+      "Integrity": "jcxcKBXci7nvAzCJfy2aIsQ5+3J2kWeaTcayhdkVTLE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shampoo_uvl.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shetka_boroda.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/shetka_boroda#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "89weqayong",
+      "Integrity": "zHysaYyX8YM23l7PbycpfWX6v9LafQ/mpB9KfHigdks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shetka_boroda.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\syvorotka.jpg",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "images/syvorotka#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "unxz9948hq",
+      "Integrity": "1r3oM/TKd4u3uk8IKaDct+b+Sx0tbWYSUC2MQ31JLg4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\syvorotka.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\js\\scripts.js",
+      "SourceId": "OnlineStrore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\",
+      "BasePath": "_content/OnlineStrore",
+      "RelativePath": "js/scripts#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b00xrtjvjt",
+      "Integrity": "S/0+0ylLab88zplSoDS5m3i+LNdvoyCcaaWLd8D/7O4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BhqXa9bUipDA+J7BdpBNF0Rur7eeF11gtaP51gOw7LY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 17:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BhqXa9bUipDA+J7BdpBNF0Rur7eeF11gtaP51gOw7LY="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.qgqw0aryw7.css",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5931"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BhqXa9bUipDA+J7BdpBNF0Rur7eeF11gtaP51gOw7LY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 17:13:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qgqw0aryw7"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BhqXa9bUipDA+J7BdpBNF0Rur7eeF11gtaP51gOw7LY="
+        }
+      ]
+    },
+    {
+      "Route": "images/balzam_boroda.dac8twt7z9.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\balzam_boroda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y8Ku6+kCY0a8gG6/ej9qzxvMQ1h5xWPHppNujH9e49Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dac8twt7z9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/balzam_boroda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y8Ku6+kCY0a8gG6/ej9qzxvMQ1h5xWPHppNujH9e49Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/balzam_boroda.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\balzam_boroda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y8Ku6+kCY0a8gG6/ej9qzxvMQ1h5xWPHppNujH9e49Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y8Ku6+kCY0a8gG6/ej9qzxvMQ1h5xWPHppNujH9e49Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/cosmetology.dnipu61ten.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\cosmetology.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V89WAYeybsewb44aTjshPEwoMeS9RPdp5RydMhJCxcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 15:30:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dnipu61ten"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cosmetology.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V89WAYeybsewb44aTjshPEwoMeS9RPdp5RydMhJCxcE="
+        }
+      ]
+    },
+    {
+      "Route": "images/cosmetology.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\cosmetology.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22897"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V89WAYeybsewb44aTjshPEwoMeS9RPdp5RydMhJCxcE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 15:30:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V89WAYeybsewb44aTjshPEwoMeS9RPdp5RydMhJCxcE="
+        }
+      ]
+    },
+    {
+      "Route": "images/fen.3ioje1lkol.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\fen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NTtrGclkXvTVvjqQgNOLLK4u6mPbF4c5EQVGOr+Y7hM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ioje1lkol"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fen.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NTtrGclkXvTVvjqQgNOLLK4u6mPbF4c5EQVGOr+Y7hM="
+        }
+      ]
+    },
+    {
+      "Route": "images/fen.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\fen.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7868"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NTtrGclkXvTVvjqQgNOLLK4u6mPbF4c5EQVGOr+Y7hM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:04:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NTtrGclkXvTVvjqQgNOLLK4u6mPbF4c5EQVGOr+Y7hM="
+        }
+      ]
+    },
+    {
+      "Route": "images/galery2.0cihuh0vs2.jpeg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\galery2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8AbAhg3HfVnI9O3DSs3sw5j48jAnt/hAg2BR0EAo1Hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 15:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0cihuh0vs2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/galery2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8AbAhg3HfVnI9O3DSs3sw5j48jAnt/hAg2BR0EAo1Hg="
+        }
+      ]
+    },
+    {
+      "Route": "images/galery2.jpeg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\galery2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8AbAhg3HfVnI9O3DSs3sw5j48jAnt/hAg2BR0EAo1Hg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 15:26:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8AbAhg3HfVnI9O3DSs3sw5j48jAnt/hAg2BR0EAo1Hg="
+        }
+      ]
+    },
+    {
+      "Route": "images/kondicioner.hn5owactpe.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\kondicioner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y0XNJTo9WL/TkvNcRChLZwMyWOXD2fw+fRdN+0ZHNHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:04:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hn5owactpe"
+        },
+        {
+          "Name": "label",
+          "Value": "images/kondicioner.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y0XNJTo9WL/TkvNcRChLZwMyWOXD2fw+fRdN+0ZHNHI="
+        }
+      ]
+    },
+    {
+      "Route": "images/kondicioner.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\kondicioner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y0XNJTo9WL/TkvNcRChLZwMyWOXD2fw+fRdN+0ZHNHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:04:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y0XNJTo9WL/TkvNcRChLZwMyWOXD2fw+fRdN+0ZHNHI="
+        }
+      ]
+    },
+    {
+      "Route": "images/krem_dlya_volos.07eywrkh2w.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\krem_dlya_volos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGidrOwiVZV4pcpZ7Xm+dUohwSYHrMdrnLQBgOxIixU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:03:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "07eywrkh2w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/krem_dlya_volos.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGidrOwiVZV4pcpZ7Xm+dUohwSYHrMdrnLQBgOxIixU="
+        }
+      ]
+    },
+    {
+      "Route": "images/krem_dlya_volos.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\krem_dlya_volos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XGidrOwiVZV4pcpZ7Xm+dUohwSYHrMdrnLQBgOxIixU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:03:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XGidrOwiVZV4pcpZ7Xm+dUohwSYHrMdrnLQBgOxIixU="
+        }
+      ]
+    },
+    {
+      "Route": "images/lak_dlya_volos.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\lak_dlya_volos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SeabAgsWGn6HDoncOu62gs0lZoNhStbrDnRsPHmxyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SeabAgsWGn6HDoncOu62gs0lZoNhStbrDnRsPHmxyw="
+        }
+      ]
+    },
+    {
+      "Route": "images/lak_dlya_volos.zibv8tfwg5.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\lak_dlya_volos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SeabAgsWGn6HDoncOu62gs0lZoNhStbrDnRsPHmxyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:03:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zibv8tfwg5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lak_dlya_volos.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SeabAgsWGn6HDoncOu62gs0lZoNhStbrDnRsPHmxyw="
+        }
+      ]
+    },
+    {
+      "Route": "images/makeup.9gs30mbda8.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\makeup.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0WaFGlBjH/usRK5Fhts3tqX1s5xsZ8OCoRyKDtQPHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 15:23:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9gs30mbda8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/makeup.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0WaFGlBjH/usRK5Fhts3tqX1s5xsZ8OCoRyKDtQPHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/makeup.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\makeup.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36021"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N0WaFGlBjH/usRK5Fhts3tqX1s5xsZ8OCoRyKDtQPHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 15:23:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N0WaFGlBjH/usRK5Fhts3tqX1s5xsZ8OCoRyKDtQPHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/makeup2.2gr0hw4d24.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\makeup2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DsT/BKVb1DSWt2mDW1ayVWutqyIZRgErHHy8x/rLdBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 15:24:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2gr0hw4d24"
+        },
+        {
+          "Name": "label",
+          "Value": "images/makeup2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DsT/BKVb1DSWt2mDW1ayVWutqyIZRgErHHy8x/rLdBk="
+        }
+      ]
+    },
+    {
+      "Route": "images/makeup2.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\makeup2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35607"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DsT/BKVb1DSWt2mDW1ayVWutqyIZRgErHHy8x/rLdBk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Sep 2024 15:24:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DsT/BKVb1DSWt2mDW1ayVWutqyIZRgErHHy8x/rLdBk="
+        }
+      ]
+    },
+    {
+      "Route": "images/mashinka.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\mashinka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bCPGoHwURifLrD6wKps8R9pLvMwbR8dZBV4JnilUFKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:03:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bCPGoHwURifLrD6wKps8R9pLvMwbR8dZBV4JnilUFKo="
+        }
+      ]
+    },
+    {
+      "Route": "images/mashinka.segixuc8hm.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\mashinka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bCPGoHwURifLrD6wKps8R9pLvMwbR8dZBV4JnilUFKo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:03:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "segixuc8hm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mashinka.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bCPGoHwURifLrD6wKps8R9pLvMwbR8dZBV4JnilUFKo="
+        }
+      ]
+    },
+    {
+      "Route": "images/maska_dlya_volos.afqqcqsrgl.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\maska_dlya_volos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RrwF2mzpdcgmfEABQDtKGEnzUhBE/EySg1XUkB++wEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afqqcqsrgl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/maska_dlya_volos.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RrwF2mzpdcgmfEABQDtKGEnzUhBE/EySg1XUkB++wEo="
+        }
+      ]
+    },
+    {
+      "Route": "images/maska_dlya_volos.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\maska_dlya_volos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RrwF2mzpdcgmfEABQDtKGEnzUhBE/EySg1XUkB++wEo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RrwF2mzpdcgmfEABQDtKGEnzUhBE/EySg1XUkB++wEo="
+        }
+      ]
+    },
+    {
+      "Route": "images/maslo_boroda.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\maslo_boroda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLpTh3muOrbFmvYodq3EvCa1+9v/4CcDS4nwHe8La5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLpTh3muOrbFmvYodq3EvCa1+9v/4CcDS4nwHe8La5c="
+        }
+      ]
+    },
+    {
+      "Route": "images/maslo_boroda.wul9zb6wli.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\maslo_boroda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50235"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GLpTh3muOrbFmvYodq3EvCa1+9v/4CcDS4nwHe8La5c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wul9zb6wli"
+        },
+        {
+          "Name": "label",
+          "Value": "images/maslo_boroda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GLpTh3muOrbFmvYodq3EvCa1+9v/4CcDS4nwHe8La5c="
+        }
+      ]
+    },
+    {
+      "Route": "images/muss_obyom.2sw56m3xnz.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\muss_obyom.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MoNecLpV/3U3m8xFp3CDfhDH/jXMFLTspI9Em9cOEcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2sw56m3xnz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/muss_obyom.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MoNecLpV/3U3m8xFp3CDfhDH/jXMFLTspI9Em9cOEcU="
+        }
+      ]
+    },
+    {
+      "Route": "images/muss_obyom.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\muss_obyom.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MoNecLpV/3U3m8xFp3CDfhDH/jXMFLTspI9Em9cOEcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:02:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MoNecLpV/3U3m8xFp3CDfhDH/jXMFLTspI9Em9cOEcU="
+        }
+      ]
+    },
+    {
+      "Route": "images/nozhnicy.4hi22tfv8f.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\nozhnicy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CFApHo9aaiQHU/TGq8H3kMGQI4T5ojJsYl7teSI+7dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:03:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4hi22tfv8f"
+        },
+        {
+          "Name": "label",
+          "Value": "images/nozhnicy.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CFApHo9aaiQHU/TGq8H3kMGQI4T5ojJsYl7teSI+7dA="
+        }
+      ]
+    },
+    {
+      "Route": "images/nozhnicy.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\nozhnicy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4684"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CFApHo9aaiQHU/TGq8H3kMGQI4T5ojJsYl7teSI+7dA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:03:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CFApHo9aaiQHU/TGq8H3kMGQI4T5ojJsYl7teSI+7dA="
+        }
+      ]
+    },
+    {
+      "Route": "images/photo_2024-12-13_20-57-35.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\photo_2024-12-13_20-57-35.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KG4he9xTxrW0xMkrp+LAhDusklntgAZOiUoMjWF0FT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:02:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KG4he9xTxrW0xMkrp+LAhDusklntgAZOiUoMjWF0FT4="
+        }
+      ]
+    },
+    {
+      "Route": "images/photo_2024-12-13_20-57-35.og4hhw3kk3.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\photo_2024-12-13_20-57-35.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32174"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KG4he9xTxrW0xMkrp+LAhDusklntgAZOiUoMjWF0FT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:02:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "og4hhw3kk3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/photo_2024-12-13_20-57-35.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KG4he9xTxrW0xMkrp+LAhDusklntgAZOiUoMjWF0FT4="
+        }
+      ]
+    },
+    {
+      "Route": "images/rashecka_karbonovaya.iahcjjvomc.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\rashecka_karbonovaya.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dg4HdkSaoPf50wGrBsW1gh7NkW5CcxBQQUVoH1nPntk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:04:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iahcjjvomc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/rashecka_karbonovaya.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dg4HdkSaoPf50wGrBsW1gh7NkW5CcxBQQUVoH1nPntk="
+        }
+      ]
+    },
+    {
+      "Route": "images/rashecka_karbonovaya.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\rashecka_karbonovaya.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dg4HdkSaoPf50wGrBsW1gh7NkW5CcxBQQUVoH1nPntk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:04:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dg4HdkSaoPf50wGrBsW1gh7NkW5CcxBQQUVoH1nPntk="
+        }
+      ]
+    },
+    {
+      "Route": "images/shampoo_boroda.3p3g6id3ss.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shampoo_boroda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t1QvEoPsRv4qzTZgVIVXU8cbWeWyg2rk0KVCScTOiRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3p3g6id3ss"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shampoo_boroda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t1QvEoPsRv4qzTZgVIVXU8cbWeWyg2rk0KVCScTOiRg="
+        }
+      ]
+    },
+    {
+      "Route": "images/shampoo_boroda.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shampoo_boroda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34033"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t1QvEoPsRv4qzTZgVIVXU8cbWeWyg2rk0KVCScTOiRg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t1QvEoPsRv4qzTZgVIVXU8cbWeWyg2rk0KVCScTOiRg="
+        }
+      ]
+    },
+    {
+      "Route": "images/shampoo_uvl.7bax9qbawr.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shampoo_uvl.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jcxcKBXci7nvAzCJfy2aIsQ5+3J2kWeaTcayhdkVTLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:04:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bax9qbawr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shampoo_uvl.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jcxcKBXci7nvAzCJfy2aIsQ5+3J2kWeaTcayhdkVTLE="
+        }
+      ]
+    },
+    {
+      "Route": "images/shampoo_uvl.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shampoo_uvl.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3598"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jcxcKBXci7nvAzCJfy2aIsQ5+3J2kWeaTcayhdkVTLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:04:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jcxcKBXci7nvAzCJfy2aIsQ5+3J2kWeaTcayhdkVTLE="
+        }
+      ]
+    },
+    {
+      "Route": "images/shetka_boroda.89weqayong.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shetka_boroda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zHysaYyX8YM23l7PbycpfWX6v9LafQ/mpB9KfHigdks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:06:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "89weqayong"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shetka_boroda.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zHysaYyX8YM23l7PbycpfWX6v9LafQ/mpB9KfHigdks="
+        }
+      ]
+    },
+    {
+      "Route": "images/shetka_boroda.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shetka_boroda.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zHysaYyX8YM23l7PbycpfWX6v9LafQ/mpB9KfHigdks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:06:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zHysaYyX8YM23l7PbycpfWX6v9LafQ/mpB9KfHigdks="
+        }
+      ]
+    },
+    {
+      "Route": "images/syvorotka.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\syvorotka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1r3oM/TKd4u3uk8IKaDct+b+Sx0tbWYSUC2MQ31JLg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1r3oM/TKd4u3uk8IKaDct+b+Sx0tbWYSUC2MQ31JLg4="
+        }
+      ]
+    },
+    {
+      "Route": "images/syvorotka.unxz9948hq.jpg",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\syvorotka.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "51008"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1r3oM/TKd4u3uk8IKaDct+b+Sx0tbWYSUC2MQ31JLg4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 21:05:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "unxz9948hq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/syvorotka.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1r3oM/TKd4u3uk8IKaDct+b+Sx0tbWYSUC2MQ31JLg4="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.b00xrtjvjt.js",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S/0+0ylLab88zplSoDS5m3i+LNdvoyCcaaWLd8D/7O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 17:21:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b00xrtjvjt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/scripts.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S/0+0ylLab88zplSoDS5m3i+LNdvoyCcaaWLd8D/7O4="
+        }
+      ]
+    },
+    {
+      "Route": "js/scripts.js",
+      "AssetFile": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\js\\scripts.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S/0+0ylLab88zplSoDS5m3i+LNdvoyCcaaWLd8D/7O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 17:21:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S/0+0ylLab88zplSoDS5m3i+LNdvoyCcaaWLd8D/7O4="
+        }
+      ]
+    }
+  ]
+}

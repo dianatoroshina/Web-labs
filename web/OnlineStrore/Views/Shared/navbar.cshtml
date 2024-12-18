@@ -1,0 +1,139 @@
+﻿<style>
+    nav {
+        background-color: #6c4f95; /* Тёмный фиолетовый фон для навигации */
+        padding: 15px 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Лёгкая тень */
+        border-radius: 5px;
+    }
+
+        nav a {
+            color: #f0e4f7; /* Светлый фиолетовый текст */
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 16px;
+            font-family: 'Arial', sans-serif;
+            transition: color 0.3s ease; /* Анимация цвета при наведении */
+        }
+
+            nav a:hover {
+                color: #9b59b6; /* Фиолетовый цвет при наведении */
+                font-weight: bold; /* Небольшой акцент */
+            }
+
+        nav .search {
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+
+            nav .search input {
+                padding: 10px;
+                font-size: 14px;
+                border: 2px solid #5e4b77; /* Окантовка */
+                border-radius: 5px 0 0 5px; /* Закругленные углы */
+                outline: none;
+                transition: border-color 0.3s ease; /* Анимация на фокус */
+            }
+
+                nav .search input:focus {
+                    border-color: #9b59b6; /* Цвет при фокусе */
+                }
+
+            nav .search button {
+                padding: 10px 15px;
+                background-color: #5e4b77; /* Темный фиолетовый фон кнопки */
+                color: #ffffff;
+                border: none;
+                border-radius: 0 5px 5px 0; /* Закругление для кнопки */
+                cursor: pointer;
+                font-size: 16px;
+                transition: background-color 0.3s ease; /* Анимация на фокус */
+            }
+
+                nav .search button:hover {
+                    background-color: #9b59b6; /* Фиолетовый цвет при наведении */
+                }
+
+        nav .search-results {
+            display: none; /* Скрыто по умолчанию */
+            position: absolute;
+            top: 50px;
+            left: 0;
+            background-color: #ffffff;
+            width: 100%;
+            max-width: 400px;
+            border-radius: 5px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Тень */
+            z-index: 100;
+            padding: 10px;
+            animation: fadeIn 0.3s ease; /* Анимация появления */
+        }
+
+        nav .search-results-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #f0e4f7;
+            padding-bottom: 5px;
+        }
+
+            nav .search-results-header span {
+                font-weight: bold;
+                color: #5e4b77;
+                font-size: 14px;
+            }
+
+            nav .search-results-header .close-button {
+                background: none;
+                border: none;
+                font-size: 18px;
+                color: #5e4b77;
+                cursor: pointer;
+            }
+
+                nav .search-results-header .close-button:hover {
+                    color: #e74c3c; /* Красный цвет при наведении */
+                }
+
+        nav .resultsList {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            max-height: 200px; /* Ограничение высоты */
+            overflow-y: auto; /* Скролл для длинного списка */
+        }
+
+            nav .resultsList li {
+                padding: 10px;
+                font-size: 14px;
+                border-bottom: 1px solid #f0e4f7;
+                transition: background-color 0.3s ease;
+            }
+
+                nav .resultsList li:hover {
+                    background-color: #f1f1f1; /* Лёгкий серый фон при наведении */
+                }
+</style>
+
+
+<nav>
+    <a href="@Url.Action("Catalog", "Product", new{TypeName = "Средства для укладки"})">Средства для укладки</a>
+    <a href="@Url.Action("Catalog", "Product", new{TypeName = "Инструменты"})">Инструменты</a>
+    <a href="@Url.Action("Catalog", "Product", new{TypeName = "Уход за волосами"})">Уход за волосами</a>
+    <a href="@Url.Action("Catalog", "Product", new{TypeName = "Уход за бородой"})">Уход за бородой</a>
+    <div class="search">
+        <input type="text" id="searchInput" placeholder="Поиск по сайту..." />
+        <button type="button" id="clearButton">&#128269;</button>
+        <div id="searchResults" class="search-results">
+            <div class="search-results-header">
+                <span>Результаты поиска</span>
+                <button class="close-button">&#10006;</button>
+            </div>
+            <ul class="resultsList" id="resultsList"></ul>
+        </div>
+    </div>
+</nav>

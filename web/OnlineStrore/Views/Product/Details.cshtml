@@ -1,0 +1,66 @@
+﻿@using OnlineStrore.Logic.Queries.Product.GetProduct
+
+@model ProductVm
+@{
+    Layout = "~/Views/Layout.cshtml";
+}
+
+<style>
+    /* Общий контейнер */
+    .content {
+        padding: 20px;
+    }
+
+    /* Контейнер деталей продукта */
+    .product-details {
+        display: flex;
+        align-items: flex-start; /* выравниваем элементы по верху */
+        gap: 20px;
+        margin: 20px 0;
+    }
+
+        /* Стили для изображения */
+        .product-details img {
+            width: 600px;
+            height: 450px;
+            object-fit: cover; /* Подгоняем изображение */
+            border: 1px solid #ccc;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+    /* Стили для информации */
+    .product-info {
+        max-width: 400px;
+    }
+
+    /* Кнопка "Добавить в корзину" */
+    button {
+        margin-top: 20px;
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+</style>
+
+<div class="content">
+    <h1>@Model.Name</h1>
+    <div class="product-details">
+        <!-- Картинка продукта -->
+        <img src="@Url.Content(Model.ImageUrl)" alt="@Model.Name">
+
+        <!-- Информация о продукте -->
+        <div class="product-info">
+            <p><b>Цена: @Model.Cost.ToString() р</b></p>
+            <p><b>Характеристики:</b><br>@Model.Characteristics</p>
+            <p><b>Количество в наличии:</b> @Model.CountOfProduct</p>
+            <button onclick="addToCart('@Model.Id')">Добавить в корзину</button>
+        </div>
+    </div>
+</div>

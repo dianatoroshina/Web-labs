@@ -1,0 +1,59 @@
+﻿
+<style>
+    .main-content {
+        display: flex;
+        flex-direction: row-reverse; /* Перемещает сайдбар справа */
+    }
+
+    .sidebar {
+        width: 300px;
+        background-color: #eaeaea;
+        padding: 20px;
+        border-left: 1px solid #cccccc; /* Изменяем границу на левую */
+    }
+
+        .sidebar a {
+            display: block;
+            color: #4a4a4a;
+            margin: 10px 0;
+            text-decoration: none;
+            font-size: 15px;
+        }
+
+            .sidebar a:hover {
+                color: #0073e6;
+            }
+
+    .partners img {
+        width: 300px; /* Устанавливаем ширину */
+        height: auto; /* Сохраняем пропорции */
+        margin: 10px 0; /* Добавляем отступы между изображениями */
+        border-radius: 5px; /* Скругляем углы, если нужно */
+        transition: transform 0.3s ease; /* Анимация при наведении */
+    }
+
+        .partners img:hover {
+            transform: scale(1.1); /* Увеличение при наведении */
+        }
+</style>
+
+    <!-- Сайдбар -->
+<div class="main-content">
+    <div class="content">
+    </div>
+    <div class="sidebar">
+        <a href="@Url.Action("Index", "Home")">Главная</a>
+        <a href="@Url.Action("Sale", "Home")">Распродажа</a>
+        <a href="@Url.Action("News", "Home")">Новинки</a>
+        <a href="@Url.Action("Contact", "Home")">Наши контакты</a>
+
+        <!-- Партнёры -->
+        <div class="partners">
+            <h2>Наши партнеры</h2>
+            <a href="https://xn--80aaa6bkfrbe5b.xn--p1ai/vizazh/makiyazh/"><img src="~/images/makeup.jpg" alt="walmart"></a>
+            <a href="https://www.proficosmetics.ru/"><img src="~/images/galery2.jpeg" alt="wayfair"></a>
+            <a href="https://www.sm-estetica.ru/"><img src="~/images/cosmetology.jpg" alt="ikea"></a>
+        </div>
+    </div>
+</div>
+

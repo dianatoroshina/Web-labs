@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\balzam_boroda.jpg",
+      "PackagePath": "staticwebassets\\images\\balzam_boroda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\cosmetology.jpg",
+      "PackagePath": "staticwebassets\\images\\cosmetology.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\fen.jpg",
+      "PackagePath": "staticwebassets\\images\\fen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\galery2.jpeg",
+      "PackagePath": "staticwebassets\\images\\galery2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\kondicioner.jpg",
+      "PackagePath": "staticwebassets\\images\\kondicioner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\krem_dlya_volos.jpg",
+      "PackagePath": "staticwebassets\\images\\krem_dlya_volos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\lak_dlya_volos.jpg",
+      "PackagePath": "staticwebassets\\images\\lak_dlya_volos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\makeup.jpg",
+      "PackagePath": "staticwebassets\\images\\makeup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\makeup2.jpg",
+      "PackagePath": "staticwebassets\\images\\makeup2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\mashinka.jpg",
+      "PackagePath": "staticwebassets\\images\\mashinka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\maska_dlya_volos.jpg",
+      "PackagePath": "staticwebassets\\images\\maska_dlya_volos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\maslo_boroda.jpg",
+      "PackagePath": "staticwebassets\\images\\maslo_boroda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\muss_obyom.jpg",
+      "PackagePath": "staticwebassets\\images\\muss_obyom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\nozhnicy.jpg",
+      "PackagePath": "staticwebassets\\images\\nozhnicy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\photo_2024-12-13_20-57-35.jpg",
+      "PackagePath": "staticwebassets\\images\\photo_2024-12-13_20-57-35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\rashecka_karbonovaya.jpg",
+      "PackagePath": "staticwebassets\\images\\rashecka_karbonovaya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shampoo_boroda.jpg",
+      "PackagePath": "staticwebassets\\images\\shampoo_boroda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shampoo_uvl.jpg",
+      "PackagePath": "staticwebassets\\images\\shampoo_uvl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\shetka_boroda.jpg",
+      "PackagePath": "staticwebassets\\images\\shetka_boroda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\images\\syvorotka.jpg",
+      "PackagePath": "staticwebassets\\images\\syvorotka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\diana\\Desktop\\Диана\\OnlineStrore\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineStrore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineStrore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineStrore.props",
+      "PackagePath": "build\\OnlineStrore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineStrore.props",
+      "PackagePath": "buildMultiTargeting\\OnlineStrore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineStrore.props",
+      "PackagePath": "buildTransitive\\OnlineStrore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

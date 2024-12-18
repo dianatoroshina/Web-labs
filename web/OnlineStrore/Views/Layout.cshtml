@@ -1,0 +1,195 @@
+﻿<!DOCTYPE html>
+@using OnlineStrore.ViewModels
+
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - Персона</title>
+
+    <!-- Встроенные стили -->
+    <style>
+        body {
+            font-family: 'Roboto', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #f4e6f8, #e2d2f4);
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(90deg, #bfa1d1, #9e7cb1);
+            color: #fff;
+            padding: 10px 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+            header table {
+                width: 100%;
+                padding: 0;
+            }
+
+            header h1 {
+                margin: 0;
+                font-size: 28px;
+                font-weight: bold;
+            }
+
+            header button {
+                background: linear-gradient(90deg, #dcb0e1, #bc8fd9);
+                color: #fff;
+                border: none;
+                padding: 10px 20px;
+                margin: 5px;
+                cursor: pointer;
+                border-radius: 25px;
+                font-size: 14px;
+                transition: transform 0.2s ease, box-shadow 0.2s ease;
+            }
+
+                header button:hover {
+                    transform: translateY(-2px);
+                    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+                }
+
+                header button a {
+                    text-decoration: none;
+                    color: inherit;
+                }
+
+        .main-content {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 20px;
+        }
+
+        .content {
+            flex: 1;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(5px);
+        }
+
+        .modal-content {
+            background: #fff;
+            margin: 10% auto;
+            padding: 20px;
+            border-radius: 10px;
+            width: 50%;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+            animation: fadeIn 0.3s ease-in-out;
+        }
+
+            .modal-content .close {
+                float: right;
+                font-size: 24px;
+                cursor: pointer;
+                color: #333;
+            }
+
+                .modal-content .close:hover {
+                    color: #ff0000;
+                }
+
+        footer {
+            background: #9e7cb1;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+            footer a {
+                color: #dcb0e1;
+                text-decoration: none;
+            }
+
+                footer a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+
+</head>
+<body>
+    <!-- Шапка сайта -->
+    <header>
+        <table width="100%">
+            <tr>
+                <td align="center">
+                    <img src="https://storage.yandexcloud.net/web-cterx/%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0.png" alt="Персона" height="120">
+                </td>
+                <td align="left">
+                    <h1>Персона</h1>
+                </td>
+                @if (ViewData["clientName"] == null)
+                {
+                    <td>
+                        <button><a href="@Url.Action("Login", "Client")"> Войти</a></button>
+                        <button><a href="@Url.Action("Create", "Client")"> Регистрация</a></button>
+                    </td>
+                }
+                else
+                {
+                    <td>
+                        <h2>@ViewData["clientName"].ToString()</h2>
+                    </td>
+                    <td>
+                        <button onclick="showCartModal()">
+                            Корзина
+                            (<span id="cart-count" class="cart-count"></span>)
+                        </button>
+                        <button><a href="@Url.Action("Feedback", "Client")">Оставить отзыв</a></button>
+                        <button><a href="@Url.Action("Logout", "Client")"> Выйти</a></button>
+                    </td>
+                }
+            </tr>
+        </table>
+    </header>
+
+    <!-- Навигационная панель -->
+    @Html.Partial("~/Views/Shared/navbar.cshtml")
+
+    <!-- Основной контент страницы -->
+    <div class="main-content">
+        @Html.Partial("~/Views/Shared/sidebar.cshtml")
+        <div class="content">
+            @RenderBody()
+        </div>
+    </div>
+
+    @* Для корзины  *@
+    <div id="cartModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="hideCartModal()">&times;</span>
+            <h2>Ваша корзина</h2>
+            <div id="cartItems">
+                <!-- Содержимое корзины будет загружено здесь -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Футер сайта -->
+    @Html.Partial("~/Views/Shared/footer.cshtml")
+
+    <!-- Подключение JavaScript файлов -->
+    <script src="~/js/scripts.js"></script>
+</body>
+</html>

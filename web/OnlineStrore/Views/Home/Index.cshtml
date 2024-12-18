@@ -1,0 +1,86 @@
+﻿@{
+    Layout = "~/Views/Layout.cshtml";
+}
+<style>
+    .slider-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .slider {
+        position: relative;
+        width: 70%;
+        max-width: 800px;
+        overflow: hidden;
+        /*    border: 1px solid #ddd;*/
+    }
+
+    .slides {
+        display: flex;
+        transition: transform 0.5s ease-in-out;
+    }
+
+    .slide {
+        display: flex;
+        flex-direction: column;
+        justify-content: center; /* Центрирует по горизонтали */
+        align-items: center; /* Центрирует по вертикали */
+        flex: 0 0 100%;
+        text-align: center;
+        height: 400px; /* Задайте фиксированную высоту слайда */
+        position: relative; /* Для адаптации к тексту ниже */
+        overflow: hidden; /* Скрывает все, что выходит за границы контейнера */
+    }
+</style>
+
+
+<!-- Контент -->
+<div class="content">
+    <h1 align="center">О салоне красоты "Персона"</h1>
+    <p>
+        <b>Салон красоты "Персона"</b> — это ваш персональный гид в мир профессионального ухода за собой. Мы объединяем высокое мастерство, современные технологии и индивидуальный подход, чтобы подчеркнуть вашу природную красоту.
+    </p>
+    <p>
+        В нашем салоне представлены <b>услуги премиум-класса:</b> профессиональный уход за волосами, ногтевой сервис, косметологические процедуры и расслабляющие спа-ритуалы. Все процедуры проводятся с использованием <i>сертифицированных средств</i> ведущих брендов индустрии красоты.
+    </p>
+
+    <h2>Примеры наших работ:</h2>
+    <div class="slider-container">
+        <div class="slider">
+            <div class="slides">
+                <div class="slide">
+                    <img src="https://storage.yandexcloud.net/web-cterx/2.jpg" alt="Пример укладки">
+                </div>
+                <div class="slide">
+                    <img src="https://storage.yandexcloud.net/web-cterx/3.jpg" alt="Пример маникюра">
+                </div>
+            </div>
+            <div class="controls">
+                <button onclick="prevSlide()">&#10094;</button>
+                <button onclick="nextSlide()">&#10095;</button>
+            </div>
+        </div>
+    </div>
+    <h2>Наши популярные услуги</h2>
+    <table border="1" cellpadding="10" cellspacing="5">
+        <tr>
+            <td rowspan="3"><h3>Популярные услуги</h3></td>
+            <td colspan="2" align="center"><h3>Уход за волосами</h3></td>
+        </tr>
+        <tr>
+            <td>Стрижка и укладка</td>
+            <td>Окрашивание и тонирование</td>
+        </tr>
+        <tr>
+            <td>Лечебные процедуры</td>
+            <td>Кератиновое выпрямление</td>
+        </tr>
+    </table>
+
+    <h2>Почему выбирают нас:</h2>
+    <ul>
+        <li>Квалифицированные мастера с большим опытом</li>
+        <li>Индивидуальный подбор средств для ухода</li>
+        <li>Расслабляющая атмосфера и стильный интерьер</li>
+    </ul>
+</div>
